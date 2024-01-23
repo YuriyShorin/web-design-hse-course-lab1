@@ -1,0 +1,31 @@
+body {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+p {
+    text-indent: 1.5em;
+}
+
+ul li::marker {
+    color: red;
+}
+
+figcaption {
+    text-align: center;
+}
+
+table {
+    border: 3px solid #292929;
+    border-collapse: collapse;
+    caption-side: bottom;
+}
+
+th, td {
+    padding: 5px 5px;
+    border: 1px solid #292929;
+}
+
+#chkalovskaya {
+    border: 3px solid #FF005A;
+}
